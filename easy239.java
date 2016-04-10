@@ -1,6 +1,7 @@
 /*
 **CHALLENGE DESCRIPTION**
 Full details of this challenge can be found at: https://www.reddit.com/r/dailyprogrammer/comments/3r7wxz/
+My code and the output can be viewed here: http://ideone.com/Ybgjug
 
 The input is a single number: the number at which the game starts. Write a program that plays the Threes 
 game, and outputs a valid sequence of steps you need to take to get to 1. Each step should be output as 
@@ -36,6 +37,6 @@ public static void main (String[] args){
          System.out.println(x + ", " + i);
          x = (x + i) / 3;
      }
-        
+ System.out.println("1");       
 }
 }
