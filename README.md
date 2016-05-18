@@ -13,3 +13,12 @@ https://www.reddit.com/r/dailyprogrammer/comments/1ystvb/
 #####239 - Easy (JAVA)
 A Game of Threes! - Change a number until you are able to equal 1.
 https://www.reddit.com/r/dailyprogrammer/comments/3r7wxz/
+
+#####257 - Easy (JAVASCRIPT)
+In what year were the most US Presidents alive?
+https://www.reddit.com/r/dailyprogrammer/comments/49aatn/20160307_challenge_257_easy_in_what_year_were/
+
+
+#CodeSchool Challenges:
+
+#####JS Roadtrip 3. Challenge 4.15
